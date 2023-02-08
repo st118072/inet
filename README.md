@@ -10,17 +10,17 @@
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение странички на хостинге.
 
-Веб-страничка с описанием лабораторных работ доступна по ссылке: [Web-Page](https://mrgogatam.github.io/inet/).
+Веб-страничка с описанием лабораторных работ доступна по ссылке: [Web-Page](https://st118072.github.io/inet/).
 
    
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer:
-1. [Отчет](https://github.com/mrgogatam/inet/blob/main/Гогаев_лаба_3.pdf).
-2. [Сценарий Cisco Packet Tracer](https://github.com/mrgogatam/inet/blob/main/Сценарий%20для%20CPT%2C%20Гогаев_3_лаба.pka).
+1. [Отчет](https://github.com/st118072/inet/blob/main/Иванов_лаба_3.pdf).
+2. [Сценарий Cisco Packet Tracer](https://github.com/st118072/inet/blob/main/Сценарий%20для%20CPT%2C%20Иванов_3_лаба.pka).
 
 ## ✅ Экзаменационный билет
 
-В качестве экзаменационного билета был выбран [билет №29](https://github.com/stankin/inet-2022/wiki/exam29).
+В качестве экзаменационного билета был выбран [билет №6](https://github.com/stankin/inet-2022/wiki/exam06).
 
 Личный [вклад](https://github.com/stankin/inet-2022/wiki/exam29/_compare/745e9de7839037e70f15e85c0416f342bdf32683...cd5e6d4e1ee95d0f2f0f301ed40018358790506c) в экзаменационный билет.
 
