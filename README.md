@@ -28,6 +28,6 @@
 
 В качестве экзаменационного билета был выбран [билет №6](https://github.com/stankin/inet-2022/wiki/exam06).
 
-Личный [вклад](https://github.com/stankin/inet-2022/wiki/exam29/_compare/745e9de7839037e70f15e85c0416f342bdf32683...cd5e6d4e1ee95d0f2f0f301ed40018358790506c) в экзаменационный билет.
+Личный [вклад](https://github.com/stankin/inet-2022/wiki/exam06/_compare/c57ee36f36ef3f40c7bf896036138a196c69402e...f90a2407113b3304b0897a60e624fc71259f6282) в экзаменационный билет.
 
 
